@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+.idea/
+*.log
+.env
+*.tmp
+build/
+dist/
+.sass-cache/
+.cache/
+.history/
+Thumbs.db
+/.DS_Store
+__pycache__/
+*.bak
+*.swp
